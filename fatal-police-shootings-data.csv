@@ -46,7 +46,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 84,Paul Campbell,2015-01-19,shot,knife,49,M,W,Weymouth,MA,False,attack,Not fleeing,False
 85,Dewayne Carr,2015-01-20,shot,,42,M,B,Scottsdale,AZ,False,other,Car,False
 86,Todd Allen Hodge,2015-01-21,shot,gun,36,M,W,Hemet,CA,False,attack,Not fleeing,False
-88,Miguel Angel de Santos-Rodriguez,2015-01-21,shot,gun,36,M,H,Chapeno,TX,False,attack,Foot,False
+88,Miguel Angel de Santos Rodriguez,2015-01-21,shot,gun,36,M,H,Chapeno,TX,False,attack,Foot,False
 90,Isaac Holmes,2015-01-21,shot,gun,19,M,B,St. Louis,MO,False,attack,Not fleeing,False
 98,Andrew Toto,2015-01-21,shot,gun,54,M,W,Derry,NH,True,attack,Not fleeing,False
 99,Tiano Meton,2015-01-22,shot,toy weapon,25,M,B,Sierra Blanca,TX,False,attack,Car,False
